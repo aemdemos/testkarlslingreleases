@@ -142,6 +142,10 @@ pre {
   white-space: pre;
 }
 
+main {
+  display: flex;
+}
+
 main > div {
   margin: 40px 16px;
 }
